@@ -9,3 +9,23 @@ The Innovate application you will create in this module, must meet these require
 - Administrators must be able to filter records by innovation type, keywords, and implementation status, so they can see which categories are receiving the most suggestions.
 
 ![image](https://user-images.githubusercontent.com/12488769/149213346-b77bd34c-f6cb-4062-aab1-eccd4cc5668f.png)
+
+
+## Core Concepts:
+
+Use Guided App Creator to create applications.
+
+Add application roles
+Create tables
+The data model design determines what tables and fields an application needs.
+
+Studio is the Integrated Development Environment (IDE) for continuing development on applications.
+
+Use Studio to create application files.
+
+Use Form Designer to:
+
+Add fields to tables
+Create form layouts
+Create form sections
+Create form views
